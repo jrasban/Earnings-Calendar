@@ -1,4 +1,4 @@
-# Earnings-Calendar
+# Earnings Calendar
 This Python script will pull all earnings announcement dates from Yahoo. The code is designed to start on the current day and go through the end of the year. With this information, we can build an ics calendar with these events. Below is the example calendar that this python code builds.
 
 ![](images/calendar.PNG)
